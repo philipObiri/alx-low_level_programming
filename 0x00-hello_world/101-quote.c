@@ -2,7 +2,7 @@
 /**
  * main -is entry point 
  *
- * Return: 1, if sucessful
+ * Return: 1, if successful
  */
 int main(void)
 {
