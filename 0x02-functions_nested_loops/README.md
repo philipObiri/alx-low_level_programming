@@ -48,7 +48,8 @@ Input represents the number to begin counting from.
 98 is the last number printed.
 
 
-# ADVANCED CHALLENGES 
+ ADVANCED CHALLENGES 
+ -------------------------------
 
 100-times_table.c: C function that prints the times table of an input value, starting with 0:
 
