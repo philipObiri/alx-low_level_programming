@@ -1,7 +1,7 @@
 C - Functions, nested loops 📃 0x02-functions_nested_loops
------------------------------------------------------------------------
+========================================================
 About this project :
-============================
+-----------------------------
 
 In this project I learnt and practiced;
 
@@ -48,9 +48,8 @@ Input represents the number to begin counting from.
 98 is the last number printed.
 
 
-==================================================================
-ADVANCED CHALLENGES 
-==================================================================
+# ADVANCED CHALLENGES 
+
 100-times_table.c: C function that prints the times table of an input value, starting with 0:
 
 If input is greater than 15 or less than 0, function prints nothing.
